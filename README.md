@@ -4,7 +4,7 @@ Completed Deloitte virtual internship via Forage – Data analysis using Tableau
 
 Deloitte Australia – Data Analytics Job Simulation (Forage)
 
-## 📅 Completed: July 2025
+## 📅 Completed: October 2025
 
 This repository contains my solution to Deloitte’s Data Analytics Virtual Internship provided via the Forage platform. It simulates real-world business challenges faced by Deloitte clients and showcases my hands-on skills in data analysis, visualization, and Excel-based reporting.
 
